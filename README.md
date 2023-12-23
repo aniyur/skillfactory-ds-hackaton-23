@@ -72,7 +72,7 @@ npm start
 # Что было сделано
 
 - исследованы [данные](https://www.kaggle.com/datasets/sujaykapadnis/emotion-recognition-dataset)
-- обучена модель
+- обучена [модель](https://drive.google.com/file/d/1cZaV8ab__-jepbpBx2gtjUWeRXeEn-a6/view)
 - подобрана архитектура / регуляризация / аугментация / гиперпараметры обучения и т. п. для предотвращения переобучения
   и достижения хорошей точности (около 85%)
 - было доработано [веб-приложение](https://github.com/victor369basu/facial-emotion-recognition) для распознавания
